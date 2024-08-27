@@ -7,6 +7,10 @@ Profile :
 
 ![image](https://github.com/user-attachments/assets/0f7b8677-6e0e-4227-859e-d3af7c643ae9)
 
+Cameras:
+![image](https://github.com/user-attachments/assets/5e848148-7b55-44fd-9d1b-9f678d8508f2)
+
+
 
 Credit:
  All credit for the original design and functionality goes to Project Sloth,
