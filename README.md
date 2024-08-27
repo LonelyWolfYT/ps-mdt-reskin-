@@ -1,4 +1,4 @@
-# ps-mdt-reskin-
+# ps-mdt-reskin
 "I've been enhancing the UI of the PS MDT (Project Sloth) to improve usability and streamline the user experience. My focus has been on optimizing the interface for clarity, responsiveness, and ease of use. The updates include refined layout adjustments, improved visual elements, and better navigation flow, all designed to ensure that users can interact with the system more intuitively and efficiently."
 Dashboard:
 ![image](https://github.com/user-attachments/assets/086f5cfc-278e-405e-98a2-2436787782c6)
